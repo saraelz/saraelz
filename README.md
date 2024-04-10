@@ -1,6 +1,6 @@
 ### Hi there 👋
 - 🔭 I’m currently working on the platform Creatorfy to empower content Creators to earn additional income from their fanbase
-- 💬 Ask me about running Tensorflow trained models on your <a href="https://saraelz.github.io/guessing-goose-ml-cnn/">website
+- 💬 Ask me about running pre-trained Tensorflow models on your <a href="https://saraelz.github.io/guessing-goose-ml-cnn/">website
 - 📫 How to reach me: saelzeiny@berkeley.edu or <a href="https://www.linkedin.com/in/saraelz/">LinkedIn
 </a>
 
